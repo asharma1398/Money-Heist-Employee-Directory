@@ -1,15 +1,14 @@
 import React from 'react';
 import "./table.css";
 import RobberData from "../RobberData/robberData"
-import robberArr from "../../robbers.json";
 
 function Table(props) {
     return (
-        <table>
+        <table className="table table-striped table-hover">
 
-            <thead>
+            <thead className="tableHead">
                 <tr>
-                    <th scope="col">Alias</th>
+                    <th scope="col" onClick={props.sortByAlias}>Alias</th>
                     <th scope="col">Name</th>
                     <th scope="col">Status</th>
                     <th scope="col">Age</th>
@@ -19,7 +18,7 @@ function Table(props) {
             </thead>
 
             <tbody>
-                {robberArr.map(robber => 
+                {props.robbers.map(robber => 
                     <RobberData 
                         id = {robber.id}
                         alias={robber.alias}
