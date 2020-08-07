@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "alias": "Berlin",
+        "name": "Andrés de Fonollosa",
+        "status": "Deceased",
+        "age": "48",
+        "mint": "Yes",
+        "bank": "No"
+    },
+    {
+        "id": 2,
+        "alias": "Helsinki",
+        "name": "Mirko Dragic",
+        "status": "Alive",
+        "age": "43",
+        "mint": "Yes",
+        "bank": "Yes"
+    },
+    {
+        "id": 3,
+        "alias": "Manila",
+        "name": "Julia Ramos",
+        "status": "Alive",
+        "age": "30",
+        "mint": "No",
+        "bank": "Yes"
+    },
+    {
+        "id": 4,
+        "alias": "Bogotá",
+        "name": "Unknown",
+        "status": "Alive",
+        "age": "47",
+        "mint": "No",
+        "bank": "Yes"
+    },
+    {
+        "id": 5,
+        "alias": "Tokyo",
+        "name": "Silene Oliveira",
+        "status": "Alive",
+        "age": "32",
+        "mint": "Yes",
+        "bank": "Yes"
+    },
+    {
+        "id": 6,
+        "alias": "The Proffesor",
+        "name": "Sergio Marquina",
+        "status": "Alive",
+        "age": "42",
+        "mint": "Yes",
+        "bank": "No"
+    },
+    {
+        "id": 7,
+        "alias": "Nairobi",
+        "name": "Ágata Jiménez",
+        "status": "Deceased",
+        "age": "34",
+        "mint": "Yes",
+        "bank": "Yes"
+    },
+    {
+        "id": 8,
+        "alias": "Denver",
+        "name": "Sergio Ramos",
+        "status": "Alive",
+        "age": "28",
+        "mint": "Yes",
+        "bank": "Yes"
+    },
+    {
+        "id": 9,
+        "alias": "Lisbon",
+        "name": "Raquel Murillo",
+        "status": "Alive",
+        "age": "42",
+        "mint": "No",
+        "bank": "Yes"
+    },
+    {
+        "id": 10,
+        "alias": "Rio",
+        "name": "Aníbal Cortés",
+        "status": "Alive",
+        "age": "22",
+        "mint": "Yes",
+        "bank": "Yes"
+    },
+    {
+        "id": 11,
+        "alias": "Stockholm",
+        "name": "Mónica Gaztambide",
+        "status": "Alive",
+        "age": "33",
+        "mint": "Yes",
+        "bank": "Yes"
+    },
+    {
+        "id": 12,
+        "alias": "Oslo",
+        "name": "Radko Dragíc",
+        "status": "Deceased",
+        "age": "44",
+        "mint": "Yes",
+        "bank": "No"
+    },
+    {
+        "id": 13,
+        "alias": "Moskow",
+        "name": "Augustin Ramos",
+        "status": "Deceased",
+        "age": "55",
+        "mint": "Yes",
+        "bank": "No"
+    },
+    {
+        "id": 14,
+        "alias": "Marseille",
+        "name": "Unknown",
+        "status": "Alive",
+        "age": "46",
+        "mint": "No",
+        "bank": "Yes"
+    },
+    {
+        "id": 15,
+        "alias": "Unknown",
+        "name": "Matias Cańo",
+        "status": "Alive",
+        "age": "29",
+        "mint": "No",
+        "bank": "Yes"
+    },
+    {
+        "id": 16,
+        "alias": "Sofia",
+        "name": "Unknown",
+        "status": "Alive",
+        "age": "6",
+        "mint": "No",
+        "bank": "Yes"
+    }
+]
