@@ -8,7 +8,7 @@ function Table(props) {
 
             <thead className="tableHead">
                 <tr>
-                    <th scope="col" onClick={props.sortByAlias}>Alias</th>
+                    <th scope="col" onClick={props.sortByAlias}>Alias <span> 🔻</span></th>
                     <th scope="col">Name</th>
                     <th scope="col">Status</th>
                     <th scope="col">Age</th>
