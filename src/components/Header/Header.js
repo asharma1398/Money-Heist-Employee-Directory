@@ -5,9 +5,7 @@ function Header() {
     return (
         <>
             <div className="jumbotron jumbotron-fluid">
-                <div className="container">
-                    
-                </div>
+                
             </div>
         </>
     )

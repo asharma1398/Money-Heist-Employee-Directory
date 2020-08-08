@@ -7,7 +7,7 @@ function Search(props) {
             <input 
             class="form-control" t
             ype="text" 
-            placeholder="Search for Crew Member or Click on Alias to Sort" 
+            placeholder="Search for Crew Member"
             aria-label="Search"
             onChange={props.handleSearch}/>
         </div>

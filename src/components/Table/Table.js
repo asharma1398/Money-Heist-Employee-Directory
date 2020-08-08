@@ -4,7 +4,7 @@ import RobberData from "../RobberData/robberData"
 
 function Table(props) {
     return (
-        <table className="table table-striped table-hover">
+        <table className="table table-striped table-hover table-responsive-s">
 
             <thead className="tableHead">
                 <tr>
