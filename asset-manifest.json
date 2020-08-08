@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Money-Heist-Employee-Directory/static/css/main.b993d862.chunk.css",
+    "main.css": "/Money-Heist-Employee-Directory/static/css/main.dcd446d6.chunk.css",
     "main.js": "/Money-Heist-Employee-Directory/static/js/main.0fd9bb8f.chunk.js",
     "main.js.map": "/Money-Heist-Employee-Directory/static/js/main.0fd9bb8f.chunk.js.map",
     "runtime-main.js": "/Money-Heist-Employee-Directory/static/js/runtime-main.a116d696.js",
@@ -8,16 +8,16 @@
     "static/js/2.8dea0d83.chunk.js": "/Money-Heist-Employee-Directory/static/js/2.8dea0d83.chunk.js",
     "static/js/2.8dea0d83.chunk.js.map": "/Money-Heist-Employee-Directory/static/js/2.8dea0d83.chunk.js.map",
     "index.html": "/Money-Heist-Employee-Directory/index.html",
-    "precache-manifest.a550ae548430e8f898d9faa53af57972.js": "/Money-Heist-Employee-Directory/precache-manifest.a550ae548430e8f898d9faa53af57972.js",
+    "precache-manifest.ed2f9f89b2be865a7da896dd8479f831.js": "/Money-Heist-Employee-Directory/precache-manifest.ed2f9f89b2be865a7da896dd8479f831.js",
     "service-worker.js": "/Money-Heist-Employee-Directory/service-worker.js",
-    "static/css/main.b993d862.chunk.css.map": "/Money-Heist-Employee-Directory/static/css/main.b993d862.chunk.css.map",
+    "static/css/main.dcd446d6.chunk.css.map": "/Money-Heist-Employee-Directory/static/css/main.dcd446d6.chunk.css.map",
     "static/js/2.8dea0d83.chunk.js.LICENSE.txt": "/Money-Heist-Employee-Directory/static/js/2.8dea0d83.chunk.js.LICENSE.txt",
     "static/media/header.css": "/Money-Heist-Employee-Directory/static/media/moneyHeist.c2ecc387.png"
   },
   "entrypoints": [
     "static/js/runtime-main.a116d696.js",
     "static/js/2.8dea0d83.chunk.js",
-    "static/css/main.b993d862.chunk.css",
+    "static/css/main.dcd446d6.chunk.css",
     "static/js/main.0fd9bb8f.chunk.js"
   ]
 }
