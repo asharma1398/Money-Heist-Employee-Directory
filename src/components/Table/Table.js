@@ -17,7 +17,7 @@ function Table(props) {
                 </tr>
             </thead>
 
-            <tbody>
+            <tbody className="tableBody">
                 {props.robbers.map(robber => 
                     <RobberData 
                         id = {robber.id}

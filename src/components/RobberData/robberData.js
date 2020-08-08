@@ -1,5 +1,5 @@
 import React from 'react';
-import "./robberData.css";
+
 
 function RobberData(props) {
     return (

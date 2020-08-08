@@ -3,10 +3,10 @@ import "./search.css";
 
 function Search(props) {
     return (
-        <div class="container">
+        <div className="container">
             <input 
-            class="form-control" t
-            ype="text" 
+            className="form-control" 
+            type="text" 
             placeholder="Search for Crew Member"
             aria-label="Search"
             onChange={props.handleSearch}/>

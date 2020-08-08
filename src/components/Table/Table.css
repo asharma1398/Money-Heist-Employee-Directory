@@ -1,4 +1,9 @@
 .tableHead {
     background: black;
     color: white;
+    text-align: center;
+}
+
+.tableBody {
+    text-align: center;
 }
