@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3bfe8e6306ac8ac15b6afaf48db89d7e",
+    "revision": "02f3d07d9d162ba2307fd7df747d44c4",
     "url": "/Money-Heist-Employee-Directory/index.html"
   },
   {
-    "revision": "43c63b4e32c7e81ec5ea",
-    "url": "/Money-Heist-Employee-Directory/static/css/main.dcd446d6.chunk.css"
+    "revision": "101b577a40a3ccc2638b",
+    "url": "/Money-Heist-Employee-Directory/static/css/main.b993d862.chunk.css"
   },
   {
     "revision": "6197d4c0de3f8e4c45cc",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Money-Heist-Employee-Directory/static/js/2.8dea0d83.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "43c63b4e32c7e81ec5ea",
+    "revision": "101b577a40a3ccc2638b",
     "url": "/Money-Heist-Employee-Directory/static/js/main.0fd9bb8f.chunk.js"
   },
   {
