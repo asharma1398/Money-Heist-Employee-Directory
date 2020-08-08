@@ -3,9 +3,9 @@
     text-align: center;
     background-image: url("moneyHeist.png");
     height:200px;
-    /* background-repeat: no-repeat; */
+    background-repeat: no-repeat;
     background-position: center;
     background-color: black;
-    width: 140%;
+    width: 100%;
     background-size: contain;
 }
