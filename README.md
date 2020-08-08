@@ -20,4 +20,4 @@ A react app that allows users to quickly access the money heist crew directory. 
 
 ### Preview
 
-![heist_prev](public/moneyHeist.gif)
+![heist_preview](public/moneyHeist.gif)
